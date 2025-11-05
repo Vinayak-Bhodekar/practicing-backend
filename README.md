@@ -29,7 +29,9 @@ MongoDB / Mongoose
 
 JWT authentication
 
-Multer / Cloud upload (if used)
+Multer / Cloudinary(cloud)
+
+
 
 Purpose
 
